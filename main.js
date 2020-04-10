@@ -10,7 +10,7 @@ let expenses = {
     p2: howmuch,
 };
 let income = [];
-
+123
 let appData = {
     budjet: money,  //бюджет (передаем сюда переменную из п.2)
     time:  timenow, // данные времени - timeData (передаем сюда переменную из п.2)
